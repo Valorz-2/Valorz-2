@@ -3,9 +3,31 @@
 
 - 📫 How to reach me **hemanthnataraj3@gmail.com**
 <div>
-<h3 align="left">Connect with me:</h3>
+<h3 align = "center">I do different things depending on my mood</h3>
+<p align = "left">
+  <pre>
+      switch(mood){
+        case (1):
+        return "Happy ! I should code now !";
+        break;
+  /*---------------------------------------------*/
+        case (2):
+        return "Depressed ! Probably I should code now"
+        break;
+  /*---------------------------------------------*/
+        case (3):
+        return "Bored ! Maybe I should code now"
+        break;
+  /*---------------------------------------------*/
+        default:
+        return "I think I should code !"
+    }
+</pre>
+</p>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/plus1formyname" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="plus1formyname" height="30" width="40" />Twitter</a><hr>
+<a href="https://codepen.io/hemanth-natarajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hemanth-natarajan" height="30" width="40" />Codepen</a><hr>
 <a href="https://instagram.com/hemanth._.natarajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hemanth._.natarajan" height="30" width="40" />Instagram</a><hr>
 <a href="https://linkedin.com/in/hemanth-natarajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanth-natarajan" height="30" width="40" />Linkedn</a><hr>
 <a href="https://www.hackerrank.com/hemanthnataraj3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hemanthnataraj3" height="30" width="40" />Hackerrank</a><hr>
@@ -13,10 +35,12 @@
 </p>
 </div>
 <div><br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3><br>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 </div>
 <br>
-<h3 align="left">Leetcode Stats:</h3>
+<h3 align = "center">📊 GitHub Stats:</h3>
+<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valorz-2&show_icons=true&locale=en" alt="valorz-2" /></p><br>
+<h3 align="center">Leetcode Stats:</h3>
 
 ![](https://leetcard.jacoblin.cool/hemanth_n1?ext=heatmap&cache=0&width=1000&height=400)

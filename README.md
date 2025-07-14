@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hemanth</h1>
 <h3 align="center">I somehow tricked my brain to believe that coding is FUN</h3>
+<div align="center">
+  <img src="https://i.giphy.com/pVGsAWjzvXcZW4ZBTE.webp">
+</div>
 
 - 📫 How to reach me **hemanthnataraj3@gmail.com**
 <div>

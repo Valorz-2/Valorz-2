@@ -4,29 +4,6 @@
   <img src="https://i.giphy.com/pVGsAWjzvXcZW4ZBTE.webp">
 </div>
 
-- 📫 How to reach me **hemanthnataraj3@gmail.com**
-<div>
-<h3 align = "center">I do different things depending on my mood</h3>
-<p align = "left">
-  <pre>
-      switch(mood){
-        case (1):
-        return "Happy ! I should code now !";
-        break;
-  /*---------------------------------------------*/
-        case (2):
-        return "Depressed ! Probably I should code now"
-        break;
-  /*---------------------------------------------*/
-        case (3):
-        return "Bored ! Maybe I should code now"
-        break;
-  /*---------------------------------------------*/
-        default:
-        return "I think I should code !"
-    }
-</pre>
-</p>
 <h3 align="left">Connect with me:</h3><hr>
 <p align="left">
   
@@ -48,12 +25,12 @@
 <div>
 <h3 align="left">Programming Languages and Frameworks :</h3><hr>
   
-![Skills](https://skillicons.dev/icons?i=cpp,cs,py,html,css,dart,flutter)
+![Skills](https://skillicons.dev/icons?i=cpp,py,html,css,)
 </div>
 <div>
   <h3 align="left">Tools :</h3><hr>
 
-  ![Skills](https://skillicons.dev/icons?i=windows,vscode,unity,matlab,figma,pycharm)
+  ![Skills](https://skillicons.dev/icons?i=windows,vscode,matlab,figma,pycharm)
 
 </div>
 <br>

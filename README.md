@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hemanth</h1>
 <h3 align="center">I somehow tricked my brain to believe that coding is FUN</h3>
 <div align="center">
-  <img src="https://i.giphy.com/pVGsAWjzvXcZW4ZBTE.webp">
+  <img src="https://i.imgur.com/gBxP6oJ.gif" width="800">
 </div>
 
 <h3 align="left">Connect with me:</h3><hr>

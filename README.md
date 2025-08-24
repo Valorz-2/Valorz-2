@@ -34,8 +34,6 @@
 
 </div>
 <br>
-<h3 align = "center">📊 GitHub Stats:</h3>
-<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valorz-2&show_icons=true&locale=en" alt="valorz-2" /></p><br>
 <h3 align="center">Leetcode Stats:</h3>
 
 ![](https://leetcard.jacoblin.cool/hemanth_n1?ext=heatmap&cache=0&width=1000&height=400)

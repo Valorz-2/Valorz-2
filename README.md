@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemanth</h1>
 <h3 align="center">I somehow tricked my brain to believe that coding is FUN</h3>
-<div align="center">
-  <img src="https://i.imgur.com/gBxP6oJ.gif" width="800">
-</div>
-
 <h3 align="left">Connect with me:</h3><hr>
 <p align="left">
   
@@ -12,15 +8,6 @@
 <a href="https://twitter.com/plus1formyname">![Twitter](https://skillicons.dev/icons?i=twitter)</a>
 <a href="mailto:hemanthnataraj3@gmail.com"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" ></a>
 </p>
-</div>
-<div>
-  <h3 align="left">Coding Profiles :</h3><hr>
-
-  <a href="https://www.hackerrank.com/hemanthnataraj3"><img height="45" width="45" src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png"></a>
-  <a href="https://leetcode.com/u/hemanth_n1/"><img height="45" width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"></a>
-  <a href="https://codepen.io/hemanth-natarajan"><img height="45" width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"></a>
-
-
 </div>
 <div>
 <h3 align="left">Programming Languages and Frameworks :</h3><hr>

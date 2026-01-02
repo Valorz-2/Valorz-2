@@ -21,6 +21,3 @@
 
 </div>
 <br>
-<h3 align="center">Leetcode Stats:</h3>
-
-![](https://leetcard.jacoblin.cool/hemanth_n1?ext=heatmap&cache=0&width=1000&height=400)

@@ -21,3 +21,5 @@
 
 </div>
 <br>
+
+![Snake animation](https://github.com/Valorz-2/Valorz-2/blob/output/github-contribution-grid-snake.svg)

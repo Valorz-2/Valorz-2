@@ -1,12 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Hemanth%20Natarajan&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=%20I%20Somehow%20tricked%20my%20brain%20to%20believe%20that%20coding%20is%20fun%20%E2%9C%8C%EF%B8%8F&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Hemanth%20Natarajan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Figuring%20out%20a%20living%20&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Valorz-2">
-    <img src="https://komarev.com/ghpvc/?username=Valorz-2&label=Profile%20views&color=00FFFF&style=flat-square" alt="Valorz-2's profile views" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=01100111%2001100101%2001100101%2001101011" alt="Typing introduction" />
 </p>
 
-<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
+<img src="https://s5.ezgif.com/tmp/ezgif-5f0aeb1b4f53098e.gif" alt="Banner" width="100%" />
 
 ## 🧠 My Focus Areas
 - Linux | Web development | AI development | Games and Softwares
@@ -76,18 +74,10 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/hemanth-natarajan/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/plus1formyname">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@HemanthNatarajan06">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:hemanthnataraj3@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
+  <a href="https://www.linkedin.com/in/hemanth-natarajan/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Hemanth Natarajan's LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://x.com/plus1formyname"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Hemanth Natarajan's Twitter"/></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@HemanthNatarajan06"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=FF00FF" alt="Hemanth Natarajan's YouTube"/></a>&nbsp;&nbsp;
+  <a href="mailto:hemanthnataraj3@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Hemanth Natarajan's Email"/></a>
 </p>
 
 <picture>
@@ -97,6 +87,6 @@
 </picture>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+  <img src="https://s5.ezgif.com/tmp/ezgif-558613f029aa0fc0.gif" alt="Bottom Line" width="100%" />
 </div>
 

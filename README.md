@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Hemanth%20Natarajan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Figuring%20out%20a%20living%20&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://d2h58dsjpbzmve.cloudfront.net/5ky3a%2Fpreview%2F79413644%2Fmain_large.png?response-content-disposition=inline%3Bfilename%3D%22main_large.png%22%3B&response-content-type=image%2Fpng&Expires=1783413432&Signature=bZkteqQW7HLqHODnXFC7~sIHvrZjJHAU4~el2E725x87Kg2tPVQWWcuXQQ5eQ~uC~zY1wd7nDxxmSSawdscJkORjAPr93PSdWhDZ7sRuv2JrlBvFQ0X77oAFDh01L7QEoLszSm6gIRXMvX~ajsoPJfSqfE4ohTUVZY1yRcXRjVjl5QdOQ5oHmtDBVw5yudu5iI3gdsiy6QJ--KnxYzUITGwapz-UlRQGZA66skULl9UXeZBwSx95CUooe-UaZih7r72uTXWf5DeJst2w6SirKrTYUMXpbxaYvG-Ym4iHbVZVosFp~~V8xw4rPkpJxSGLz44a8i9vFjNA98Ojlod22A__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=01100111%2001100101%2001100101%2001101011" alt="Typing introduction" />

@@ -1,4 +1,4 @@
-<img src="https://d2h58dsjpbzmve.cloudfront.net/5ky3a%2Fpreview%2F79413644%2Fmain_large.png?response-content-disposition=inline%3Bfilename%3D%22main_large.png%22%3B&response-content-type=image%2Fpng&Expires=1783413432&Signature=bZkteqQW7HLqHODnXFC7~sIHvrZjJHAU4~el2E725x87Kg2tPVQWWcuXQQ5eQ~uC~zY1wd7nDxxmSSawdscJkORjAPr93PSdWhDZ7sRuv2JrlBvFQ0X77oAFDh01L7QEoLszSm6gIRXMvX~ajsoPJfSqfE4ohTUVZY1yRcXRjVjl5QdOQ5oHmtDBVw5yudu5iI3gdsiy6QJ--KnxYzUITGwapz-UlRQGZA66skULl9UXeZBwSx95CUooe-UaZih7r72uTXWf5DeJst2w6SirKrTYUMXpbxaYvG-Ym4iHbVZVosFp~~V8xw4rPkpJxSGLz44a8i9vFjNA98Ojlod22A__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ"/>
+<img src="assets/Screenshot 2026-07-07 135543.png"/>
 
 <h1 align="center">Hi Lol <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"></h1>
 
@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=01100111%2001100101%2001100101%2001101011" alt="Typing introduction" />
 </p>
 
-<img src="https://s5.ezgif.com/tmp/ezgif-5f0aeb1b4f53098e.gif" alt="Banner" width="100%" />
+<img src="assets/ezgif.com-crop.gif" alt="Banner" width="100%" />
 
 <p align="center">
 I am a Computer Science and Aritificial Intelligence Engineering student at Amrita Vishwa Vidhyapeeham University. I am working on improving my knowledge about ML / DL algorithms, analyzing complex datasets and advanced AI technologies
@@ -47,7 +47,7 @@ Games and Software
 </picture>
 
 <div align="center">
-  <img src="https://s5.ezgif.com/tmp/ezgif-558613f029aa0fc0.gif" alt="Bottom Line" width="100%" />
+  <img src="assets/ezgif-558613f029aa0fc0.gif" alt="Bottom Line" width="100%" />
 </div>
 
 

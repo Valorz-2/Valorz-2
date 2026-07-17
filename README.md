@@ -22,7 +22,7 @@ Games and Software
 ## GitHub Stats
 <p align="center">
   <a href="https://github.com/0-two">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Valorz-2&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="Valorz-2's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0-two&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="0-two's GitHub Stats" />
   </a>
 </p>
 <br>

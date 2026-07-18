@@ -18,6 +18,10 @@ Web development |
 AI development |
 Games and Software
 </p>
+<br>
+<p align="center">
+  <strong>I play games a lot, ok maybe not a lot</strong>
+</p>
 
 ## GitHub Stats
 <p align="center">

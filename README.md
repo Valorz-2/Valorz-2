@@ -9,7 +9,7 @@
 <img src="assets/ezgif.com-crop.gif" alt="Banner" width="100%" />
 
 <p align="center">
-I am a Computer Science and Aritificial Intelligence Engineering student at Amrita Vishwa Vidhyapeeham University. I am working on improving my knowledge about ML / DL algorithms, analyzing complex datasets and advanced AI technologies
+I am a Computer Science and Aritificial Intelligence Engineering student at Amrita Vishwa Vidhyapeetham University. I am working on improving my knowledge about ML / DL algorithms, analyzing complex datasets and advanced AI technologies
 </p>
 <br>
 <p align="center">
